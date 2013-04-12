@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "HTML5Compiler", "HTML5Compiler.exe", "{BE23E077-46CA-4A5A-9CA6-CAD245FC9468}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Proyectos\Mobile\gecommerce\trunk\src\HTML5Compiler\HTML5Compiler\bin\Release\HTML5Compiler.exe
+		RemoteMachine = GABRIEL
+		StartingDirectory = C:\Proyectos\Mobile\gecommerce\trunk\src\HTML5Compiler\HTML5Compiler\bin\Release
+		Environment = Predeterminado
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE23E077-46CA-4A5A-9CA6-CAD245FC9468}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

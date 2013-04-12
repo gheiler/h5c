@@ -1,0 +1,534 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	<div class="kix-page kix-page-paginated" style="width: 816px; background-color: rgb(255, 255, 255); height: 1056px">
+	  <div class="kix-print-block" style="max-height: 422.4px; min-height: 96px; width: 816px"></div>
+	  <div>
+		<div class="kix-paragraphrenderer" style="padding-top: 0px; padding-right: 96px; padding-left: 96px; padding-bottom: 0px">
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 240px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:bold;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;">MODULARIZED HTML COMPILER</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 129px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:bold;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;">Breve Explicación</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 564px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">En base a la necesidad de trabajar en un proyecto de sólo HTML 5 (html + css3 + js), y</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 566px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">manteniendo la idea de trabajar las vistas (HTML) de forma modularizada se requiere la</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 210px; width: 46px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 260px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">realización de un compilador de HTML5.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 0px; width: 85px; height: 18px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 85px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:bold;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;">Descripcion</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 0px; width: 105px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 585px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">HTML5Compiler será una aplicación que compilara un proyecto HTML modularizado a una</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 595px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">aplicación de archivos estáticos de HTML. Ésta recibirá la ruta de un directorio, en donde se</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 620px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">encuentre la raíz de un proyecto HTML5, y tendrá el objetivo de construir una aplicación en base</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 411px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">a archivos de html modularizados y los tags que los relacionan.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 99px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:bold;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;">Componentes</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 21px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 599px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Se define uno o más tags al inicio de cada archivo que darán instrucciones al compilador del</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 184px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">comportamiento del archivo.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 232px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Estos tags tendrán la estructura de:</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 114px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&lt;# property=”” #></span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 432px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Las posibles propiedades a ser incluidas en su versión beta serán:</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 12px; width: 56px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 76px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">1. isSection</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 617px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Boolean que indica si el archivo en el que me encuentro genera una sección, osea si a partir de</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 227px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">este archivo voy a generar un html.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 43px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">2. type</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 600px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Este tag indica si el archivo al que se hace referencia será incluido en nuestro html parcial (a</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 618px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">partir de ahora modulo) o nuestro módulo será envuelto por el mismo. Estos dos valores toman</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 293px; width: 77px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 375px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">respectivamente los nombres de “Include” y “WrappedBy”</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 66px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">3. position</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 512px; width: 77px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 594px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Este tag es dependiente de el tag type, en caso de que el tag type sea del tipo “WrappedBy”</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 586px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">este tag debería estar siempre presente, ya que indica en qué parte del módulo padre será</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 577px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">incluido, el valor será un identificador de la sección. En el módulo padre la definición de la</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 229px; width: 88px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 609px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">ubicación será de esta forma: &lt;!--#SectionName#--> (se envuelve en un comentario de HTML</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 325px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">ya que la sección puede no siempre ser utilizada).</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 73px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">4. fileName</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 598px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Ruta relativa, a la raíz del proyecto, del archivo que se desea incluir o sobre el cual se desea</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  <div class="kix-page-bottom">
+		<div class="kix-print-block">
+		  <div class="kix-page-footnotes-separator" style="display: none; margin-left: 96px; width: 192px"></div>
+		</div>
+		<div class="kix-print-block" style="max-height: 422.4px; min-height: 96px; width: 816px"></div>
+	  </div>
+	</div>
+	<div class="kix-page kix-page-paginated" style="width: 816px; background-color: rgb(255, 255, 255); height: 1056px">
+	  <div class="kix-print-block" style="max-height: 422.4px; min-height: 96px; width: 816px"></div>
+	  <div>
+		<div class="kix-paragraphrenderer" style="padding-top: 0px; padding-right: 96px; padding-left: 96px; padding-bottom: 0px">
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 58px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">envolver.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 16px; width: 102px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 118px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">5. overwriteParent</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 617px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Identificador que indica que indica que y cual tag del padre o cualquier nivel superior tiene como</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 134px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">objetivo sobrescribir.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 75px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">6. tagName</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 423px; width: 53px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 605px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Identificador que indica que indica que el tag es sobreescribible y ademas describe el nombre</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 104px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">que lo identifica.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 532px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Ejemplo de un tag común de una sección a partir de la cual se generará un HTML:</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 17px; width: 56px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 146px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&lt;# isSection=”true” #></span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 537px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&lt;# type=”WrappedBy” position=”center” fileName=”/modules/body/default.html”  #></span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 432px; width: 63px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 536px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&lt;# type=”WrappedBy” position=”body” fileName=”/modules/header/notdefault.html”</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 0px; width: 102px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 191px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">overwriteParent=”header”  #></span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-spelling-error kix-htmloverlay docstext-unprintable" style=";top: 0px; left: 27px; width: 56px; height: 17px;"></div>
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 455px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">* &lt;# isSection #> también es válido, el default es true en todo boolean.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px"></div>
+			</div>
+		  </div>
+		  <div class="kix-paragraphrenderer">
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 586px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">El proyecto modularizado deberá tener uno y solo un index.html el cual se encontrará en la</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 620px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">carpeta raíz del proyecto. Este index deberá mantenerse lo más genérico posible y será la base</span>
+				</span>
+			  </div>
+			</div>
+			<div class="kix-lineview" style="height: 20px; direction: ltr; text-align: left">
+			  <div class="kix-lineview-content" style="margin-left: 0px; padding-top: 0px">
+				<span class="goog-inline-block kix-lineview-text-block" style="width: 398px; padding-left: 0px">
+				  <span style="font-size:15px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">en donde deba finalizar la compilación modularizada del html.</span>
+				</span>
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  <div class="kix-page-bottom">
+		<div class="kix-print-block">
+		  <div class="kix-page-footnotes-separator" style="display: none; margin-left: 96px; width: 192px"></div>
+		</div>
+		<div class="kix-print-block" style="max-height: 422.4px; min-height: 96px; width: 816px"></div>
+	  </div>
+	</div>
+		</body>
+</html>
